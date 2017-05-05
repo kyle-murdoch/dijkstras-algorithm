@@ -15,7 +15,7 @@ public class Dijkstras_Algorithm {
     public static void main(String[] args) {
         // parse data from the flight data file
         try {
-            BufferedReader flightData = new BufferedReader(new FileReader("./src/project6/flight_data.dat"));
+            BufferedReader flightData = new BufferedReader(new FileReader("./src/project6/data.dat"));
             int numData = Integer.parseInt(flightData.readLine()); // get number of data points
             
             String[] data = new String[numData * 4];
