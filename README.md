@@ -3,8 +3,10 @@ This code provides a demonstration of Dijkstra's Algorithm, which creates finds 
 
 Data is entered in 'data.dat' in the following format:
 <# of following inputs>
+
 \<destinationA>|\<destinationB>|\<cost>|\<time>
 
 Data is entered in 'request.dat' in the following format:
 <# of following inputs>
+
 \<starting_vertex>|\<ending_vertex>|\<C: by cost or T: by time>
