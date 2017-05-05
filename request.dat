@@ -1,8 +1,8 @@
 7
-F|B|C
-B|F|C
-B|F|T
-C|A|C
-C|A|T
-D|E|T
-E|D|T
+Fort Lauderdale|Boston|C
+Boston|Fort Lauderdale|C
+Boston|Fort Lauderdale|T
+Chicago|Austin|C
+Chicago|Austin|T
+Dallas|El Paso|T
+El Paso|Dallas|T

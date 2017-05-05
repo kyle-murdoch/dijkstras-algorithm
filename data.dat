@@ -1,14 +1,14 @@
 13
-A|C|8|47
-B|A|19|73
-B|C|46|24
-C|A|99|25
-C|B|52|67
-C|D|6|21
-C|F|13|5
-D|A|91|57
-D|F|76|78
-E|C|74|69
-E|F|32|43
-F|D|34|51
-F|E|23|35
+Austin|Chicago|8|47
+Boston|Austin|19|73
+Boston|Chicago|46|24
+Chicago|Austin|99|25
+Chicago|Boston|52|67
+Chicago|Dallas|6|21
+Chicago|Fort Lauderdale|13|5
+Dallas|Austin|91|57
+Dallas|Fort Lauderdale|76|78
+El Paso|Chicago|74|69
+El Paso|Fort Lauderdale|32|43
+Fort Lauderdale|Dallas|34|51
+Fort Lauderdale|El Paso|23|35
